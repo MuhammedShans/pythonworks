@@ -1,0 +1,56 @@
+.maindiv{
+    width: 350px;
+    height:600px ;
+    border: 1px solid rgb(193, 186, 186);
+    text-align: center;
+    margin: auto ;
+    
+    
+    
+}
+h2{
+    font-size: 17px;
+    font-weight: 600;
+    color: gb(var(--ig-sercondary-text));
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(126, 124, 124)
+    
+    
+    
+} 
+.bt{
+    width: 300px;
+    height: 33px;
+    border-radius: 7px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #2c80ee;
+    color: white;
+    
+}
+.bt:hover{
+    background-color: #035dd2;
+}
+.inp1{
+    width: 300px;
+    height: 33px;
+    padding-left: 6px;
+    border-radius: 3px;
+    border: 1px solid rgb(231, 222, 222);
+    background-color: rgb(250, 247, 247);
+    margin-top: 6px;
+}
+.pdiv{
+    width:320 ;
+}
+p{
+    color: rgb(126, 124, 124);
+    font-size: 13px;
+    padding-left: 7px;
+}
+a:link{
+    text-decoration: none;
+}

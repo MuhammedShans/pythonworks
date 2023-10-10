@@ -1,0 +1,3 @@
+text= "superior"
+
+out="super"
